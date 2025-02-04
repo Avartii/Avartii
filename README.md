@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hey there! I'm <span style="color: #FF5733; font-size: 60px;">Avarti Rastogi</span></h1>
+<h1 align="center">👋 Hey there! I'm </h1>
+<h1 align="center">
+  <span style="color: #fff; font-size: 60px; font-weight: bold; text-shadow: 0 0 5px #FF5733, 0 0 10px #FF5733, 0 0 20px #FF5733, 0 0 40px #FF5733, 0 0 80px #FF5733;">
+    Avarti Rastogi ✨
+  </span>
+</h1>
+
 <h3 align="center" style="color: #1DA1F2;">🚀 Transforming Code into <span style="color: #FF69B4; font-weight: bold;">User Delight</span>: The Art of <span style="color: #4CAF50;"> Full Stack Web Developer </span> 💻✨</h3>
 
 <p align="center"> 
