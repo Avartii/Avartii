@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hey there! I'm </h1>
+<h1 align="center"> Hey there! I'm</h1>
 <h1 align="center">
-  <span style="color: #fff; font-size: 60px; font-weight: bold; text-shadow: 0 0 5px #FF5733, 0 0 10px #FF5733, 0 0 20px #FF5733, 0 0 40px #FF5733, 0 0 80px #FF5733;">
+  <span style="font-size: 60px; font-weight: bold; padding: 10px; border: 5px solid #FF5733;
+    border-radius: 10px; box-shadow: 0 0 20px #FF5733, 0 0 40px #FFC300;
+    animation: pulse 2s infinite;">
     Avarti Rastogi ✨
   </span>
 </h1>
