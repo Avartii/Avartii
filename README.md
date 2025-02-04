@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey there! I'm <span style="color: #1DA1F2;">Avarti Rastogi</span></h1>
-<h3 align="center">🚀 Transforming Code into User Delight: The Art of CSE Web Development 💻✨</h3>
+<h1 align="center">👋 Hey there! I'm <span style="color: #FF5733; font-size: 60px;">Avarti Rastogi</span></h1>
+<h3 align="center" style="color: #1DA1F2;">🚀 Transforming Code into <span style="color: #FF69B4; font-weight: bold;">User Delight</span>: The Art of <span style="color: #4CAF50;"> Full Stack Web Developer </span> 💻✨</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=avartii&label=Profile%20views&color=0e75b6&style=flat" alt="avartii" /> 
@@ -10,6 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=avartii&margin-w=15&theme=onestar" alt="avartii" />
   </a>
 </p>
+
 
 ---
 
