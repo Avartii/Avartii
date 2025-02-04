@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avarti Rastogi</h1>
-<h3 align="center">Transforming Code into user Delight:The Art of CSE Web Developer✨💻.</h3>
+<h1 align="center">👋 Hey there! I'm <span style="color: #1DA1F2;">Avarti Rastogi</span></h1>
+<h3 align="center">🚀 Transforming Code into User Delight: The Art of CSE Web Development 💻✨</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avartii&label=Profile%20views&color=0e75b6&style=flat" alt="avartii" /> </p>
 
